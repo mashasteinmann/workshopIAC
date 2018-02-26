@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class testmulti {
+public class Testmulti {
 
 	@Test
 	public void testmulti() {
